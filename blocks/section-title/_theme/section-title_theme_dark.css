@@ -1,6 +1,7 @@
 .section-title_theme_dark {
+  position: relative;
   color: white;
   text-align: center;
   margin-bottom: 20px;
-  z-index: 2;
+  z-index: 1;
 }
